@@ -43,7 +43,7 @@ p {
     overflow: hidden;
     width: 900px;
     max-height: 500px;
-    background: url(../img/bg-pattern-desktop.svg), white;
+    background: url(img/bg-pattern-desktop.svg), white;
     background-position: -550px -305px;
     background-repeat: no-repeat;
     border-radius: 30px;
@@ -117,7 +117,7 @@ details summary::-webkit-details-marker {
   }
 
 details summary::after {
-    content: url(../img/icon-arrow-down.svg);
+    content: url(img/icon-arrow-down.svg);
     float: right;
     transition: all .3s;
 }
